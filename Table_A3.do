@@ -184,7 +184,7 @@ acreg shock_coffe shock_coffe_i shock_oil shock_ban shock_palm shock_tobac shock
                       Creando tabla            
 ==================================================================== */
 
-texdoc do "${root}\Do files\robust_tabla1.do"
+texdoc do "${root}\Do files\Tex_Table_A3.do"
 
-*doedit "${root}\Do files\robust_tabla1.do"
+*doedit "${root}\Do files\Tex_Table_A3.do"  
 
